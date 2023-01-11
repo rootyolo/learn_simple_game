@@ -1,1 +1,1 @@
-# learn_simple_game
+简单初学 C语言实现三子棋小游戏
